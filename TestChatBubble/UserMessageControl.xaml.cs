@@ -21,6 +21,7 @@ namespace TestChatBubble
         public UserMessageControl()
         {
             InitializeComponent();
+            //
         }
     }
 }
